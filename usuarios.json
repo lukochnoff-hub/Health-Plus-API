@@ -3,5 +3,10 @@
         "nome": "Maria Luiza",
         "email": "lukochnoff@gmail.com",
         "senha": "papailindo123"
+    },
+    {
+        "nome": "guilherme",
+        "email": "guilherme@demo.com",
+        "senha": "123456"
     }
 ]
