@@ -173,5 +173,3 @@ Este projeto foi desenvolvido para a disciplina de Web Development e Front-End D
 * experiência do usuário
 * aplicações web completas
 
-```
-```
